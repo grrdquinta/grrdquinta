@@ -175,20 +175,6 @@ de paquetes para una empresa de logística.
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grrdquinta&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grrdquinta&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=grrdquinta&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Formación académica
 
 🎓 **Ingeniería en Ciencias de la Computación**
@@ -209,7 +195,6 @@ participar en nuevos desafíos profesionales.
 
 [![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerstev.32@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Ver_Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grrdquinta)
-[![Website](https://img.shields.io/badge/Polihome-Ver_Sitio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.poli-home.com/)
 
 </div>
 
