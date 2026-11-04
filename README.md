@@ -177,7 +177,7 @@ de paquetes para una empresa de logística.
 🎓 **Ingeniería en Ciencias de la Computación**
 Universidad Don Bosco | En curso
 
-💻 **Bachiller Técnico en Desarrollo de Software**
+💻 **Bachillerato Técnico en Desarrollo de Software**
 Instituto Técnico Ricaldone | 2023 – 2025
 
 ---
